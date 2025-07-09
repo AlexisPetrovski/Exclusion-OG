@@ -1,0 +1,10 @@
+streamlit==1.41.0
+pandas
+numpy
+matplotlib
+seaborn
+yfinance
+scipy
+requests
+openpyxl
+xlsxwriter
